@@ -2,7 +2,7 @@ class Tracehurl < Formula
   desc "Evidence-First Verification Report CLI for Hurl Test Suites"
   homepage "https://github.com/abhiudayg/trace-hurl"
   url "https://github.com/abhiudayg/trace-hurl/archive/refs/tags/v0.1.0.tar.gz"
-  sha256 "7fe53c1066855678c6fc3e94a76488dbf5d048a8c801f5f6086cc7fc63d6be29"
+  sha256 "2364a58f88c3ae079ac24c99c079bcf77f38bad13fb372ad5ade9cd76f86bb80"
   license "MIT"
 
   depends_on "rust" => :build
